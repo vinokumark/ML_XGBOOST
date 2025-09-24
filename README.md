@@ -9,9 +9,9 @@ Python 3.10.11 or higher [https://www.python.org/ftp/python/3.10.11/python-3.10.
 
 #### Clone the code into local system ####
 
-1. Open the gitbash
-2. Choose any disk path
-3. ``` python -m venv pyvirtual
+1. step 1.Open the gitbash
+2. Step 2.Choose any disk path to clone the clone
+4. ``` python -m venv pyvirtual
        source pyvirtaul/scripts/activate 
        git clone https://github.com/vinokumark/ML_XGBOOST.git 
        cd ML_XGBOOST
