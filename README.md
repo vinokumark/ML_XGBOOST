@@ -7,4 +7,13 @@ Gitbash [https://git-scm.com/downloads/win]
 
 Python 3.10.11 or higher [https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe]
 
-#### Clone the code into local system
+#### Clone the code into local system ####
+
+1. Open the gitbash
+2. Choose any disk path
+3. 
+   ```
+   python -m venv pyvirtual
+   source pyvirtaul/scripts/activate
+   ```
+   
