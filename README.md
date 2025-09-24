@@ -1,5 +1,6 @@
-<img width="1411" height="903" alt="image" src="https://github.com/user-attachments/assets/55286bfb-5572-41a9-b874-7f3e848106f0" /># ML_XGBOOST
+# ML_XGBOOST
 Simple ML to train and predict using LOAN dataset
+<img width="1411" height="903" alt="image" src="https://github.com/user-attachments/assets/55286bfb-5572-41a9-b874-7f3e848106f0" />
 
 #### System Requirement to run the code ####
 
