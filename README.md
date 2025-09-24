@@ -22,6 +22,6 @@ Python 3.10.11 or higher [https://www.python.org/ftp/python/3.10.11/python-3.10.
 ### If all above steps completed ###
 1. ``` streamlist run ML_PREDICT.py ```
 
-! (https://github.com/vinokumark/ML_XGBOOST/blob/main/images/streamlit_start.JPG)
+![ stream run](https://github.com/vinokumark/ML_XGBOOST/blob/main/images/streamlit_start.JPG)
 
    
