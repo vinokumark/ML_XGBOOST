@@ -12,7 +12,7 @@ Python 3.10.11 or higher [https://www.python.org/ftp/python/3.10.11/python-3.10.
 1. Open the gitbash
 2. Choose any disk path
 3.
-   ```python -m venv pyvirtual
+   ``` python -m venv pyvirtual
    ```
 5. ``` source pyvirtaul/scripts/activate ```
 6. ```git clone https://github.com/vinokumark/ML_XGBOOST.git ```
