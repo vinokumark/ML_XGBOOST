@@ -1,0 +1,25 @@
+# Core
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+xgboost==2.1.1
+
+# UI
+streamlit==1.37.0
+
+# Explainability
+shap==0.45.1
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Model persistence
+joblib==1.4.2
+
+# Small LLM (optional, HuggingFace)
+torch==2.0.1
+transformers==4.36.2
+accelerate==0.25.0
+sentencepiece==0.1.99
+
+# Utilities
+regex==2024.5.15
